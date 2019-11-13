@@ -1,5 +1,6 @@
 ## Important links 
 
+|:---|:---|:---|:---|:---|
 [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
 [Class Repository](https://github.com/learn-co-students/DC-DS-111819)
 [Blogs]()
