@@ -57,6 +57,28 @@
 
 ## Blogs
 
-|  Name | Blog #1 Link | Blog #2 Link |
-| --- | --- | --- |
-|a |b |c |
+|  Name | Blog #1 Link |
+| --- | --- |
+| Earl Younce          | |
+| Donna Cattanach      | |
+| Alexander Cheng      | |
+| Mathis Brennan       | |
+| Raj Malhotra         | |
+| Gurnimrat Sidhu      | |
+| Justin Fleury        | |
+| vyjayanthi Paravastu | |
+| Charles Pryor        | |
+| Mark Mcgarity        | |
+| Nick Zauner          | |
+| Alexander Kaufman    | |
+| Stephen Williams     | |
+| Anesu Masube         | |
+| Michael Pallante     | |
+| Aaron Childress      | |
+| Muoyo Okome          | |
+| Jill Carrie          | |
+| Christopher Holden   | |
+| Darian Madere        | |
+| Jeff Lin             | |
+| Andrew Harris        | |
+| Chunhsiung Lu        | |
