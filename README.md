@@ -1,11 +1,7 @@
 ## Important links 
 
-|:---|:---|:---|:---|:---|
-[Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
-[Class Repository](https://github.com/learn-co-students/DC-DS-111819)
-[Blogs]()
-[Office Hours w/ Nick](https://calendar.google.com/calendar/selfsched?sstoken=UUx6U3VZT2pSLTE5fGRlZmF1bHR8ZTdkZjkyZDM3NjQxMWIwZGQzNmNlNzQ3YWU3ZWUwODg)
-[Office Hours w/ Shreya](https://calendar.google.com/calendar/selfsched?sstoken=UUNaR1V6Q1drN3BZfGRlZmF1bHR8MDg3MDk5NTNhYzIyYzRmNTQ2ZGZkMTgzMTJhMzU1YmM)
+
+| [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing) | [Class Repository](https://github.com/learn-co-students/DC-DS-111819) | [Blogs]() | [Office Hours w/ Nick](https://calendar.google.com/calendar/selfschedsstoken=UUx6U3VZT2pSLTE5fGRlZmF1bHR8ZTdkZjkyZDM3NjQxMWIwZGQzNmNlNzQ3YWU3ZWUwODg) | [Office Hours w/ Shreya](https://calendar.google.com/calendar/selfschedsstoken=UUNaR1V6Q1drN3BZfGRlZmF1bHR8MDg3MDk5NTNhYzIyYzRmNTQ2ZGZkMTgzMTJhMzU1YmM) |
 
 
 ## Calendar
