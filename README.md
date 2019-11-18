@@ -9,6 +9,7 @@
 
 # Lecture Code + Recording
 # Module 1 🌱
+
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 ||||
