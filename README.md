@@ -5,9 +5,6 @@
 
 
 ## Calendar
-
-<iframe src="" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 <iframe src="https://calendar.google.com/calendar/embed?src=flatironschool.com_l9tl29slhaq85eeh32rtbkjpa4%40group.calendar.google.com&ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzY0bGtyZ2xtbzRncmk2ZzlsdDdldWM2ODhjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23AD1457&amp;showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK" style="border-width:0" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Lecture Code + Recording
