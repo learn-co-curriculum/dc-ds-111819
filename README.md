@@ -8,7 +8,7 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tX2w5dGwyOXNsaGFxODVlZWgzMnJ0YmtqcGE0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%238A2D38&amp;mode=WEEK&amp;showTabs=1&amp;showTitle=0&amp;showTz=0&amp;showCalendars=0&amp;showPrint=1&amp;showDate=1" style="border-width:0" width="900" height="600" frameborder="0" scrolling="no"></iframe>
 
 # Lecture Code + Recording
-# Module 1 🌱
+# Module 1
 
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
@@ -17,14 +17,14 @@
 ||||
 
 
-# Module 2 🌿
+# Module 2
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 ||||
 ||||
 ||||
 
-# Module 3 ☘️
+# Module 3
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 ||||
@@ -32,21 +32,21 @@
 ||||
 
 
-# Module 4 🍀
+# Module 4
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 ||||
 ||||
 ||||
 
-# Module 5 🌳
+# Module 5
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 ||||
 ||||
 ||||
 
-# Module 6 🦚
+# Module 6
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
 ||||
