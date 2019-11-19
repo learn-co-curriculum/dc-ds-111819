@@ -12,8 +12,8 @@
 
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-||||
-||||
+|Intro to Bash + Git|<a href="https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-1-bash-git">Intro to Bash Code</a>|<a href="https://www.youtube.com/watch?v=wQ5yluk02nA">Intro to Bash Slides</a>|
+|Python Part I|<a href="https://github.com/learn-co-students/dc-ds-111819/blob/master/module-1/day-2-python-1/python-fundamentals-enkeboll.ipynb">Python Part I Code</a>|<a href="https://www.youtube.com/watch?v=LaGO7WCJV24">Python Part I Video</a>|
 ||||
 
 
