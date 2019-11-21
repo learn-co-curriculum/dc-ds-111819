@@ -17,7 +17,7 @@
 |Git Review Coach Lab| |[Git Review Coach Lab Video](https://youtu.be/4DA-JJZpjzQ)|
 |Python Part II|<a href="https://github.com/learn-co-students/dc-ds-111819/blob/master/module-1/day-3-python-2/python-2-enkeboll.ipynb">Python Part II Code</a>|<a href="https://www.youtube.com/watch?v=xJUm6q7uyY8">Python Part II Video</a>|
 |Bash Tips and Tricks| |<a href="https://www.youtube.com/watch?v=jRHKo7r_HMA">Bash Tips and Tricks Video</a>|
-|Numpy & Pandas|[code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-4-numpy-pandas) |[video](https://youtu.be/DWPqPPH66Rs)|
+|Numpy & Pandas|[Numpy & Pandas Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-4-numpy-pandas) |[Numpy & Pandas Video](https://youtu.be/DWPqPPH66Rs)|
 
 
 # Module 2
