@@ -18,6 +18,9 @@
 |Python Part II|<a href="https://github.com/learn-co-students/dc-ds-111819/blob/master/module-1/day-3-python-2/python-2-enkeboll.ipynb">Python Part II Code</a>|<a href="https://www.youtube.com/watch?v=xJUm6q7uyY8">Python Part II Video</a>|
 |Bash Tips and Tricks| |<a href="https://www.youtube.com/watch?v=jRHKo7r_HMA">Bash Tips and Tricks Video</a>|
 |Numpy & Pandas|[Numpy & Pandas Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-4-numpy-pandas) |[Numpy & Pandas Video](https://youtu.be/DWPqPPH66Rs)|
+|Pandas pt.2|[Pandas pt.2 code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-1/day-5-pandas-1/pandas-1-nick.ipynb)|[Pandas pt.2 Video](https://youtu.be/DyAif6a1Rgo)|
+|Pandas pt.3|[Pandas pt.3 code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-6-pandas-3)|[Pandas pt.3 Video](https://www.youtube.com/watch?v=xbPU0FrfPG0)|
+|Pandas & Matplot Coach Lab| [Pandas & Matplot Coach Lab Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-6-pandas-matplotlib) | [Pandas & Matplot Coach Lab Video](https://youtu.be/BN7mJvWrm9g)
 
 
 # Module 2
