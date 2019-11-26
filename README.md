@@ -21,6 +21,7 @@
 |Pandas pt.2|[Pandas pt.2 code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-1/day-5-pandas-1/pandas-1-nick.ipynb)|[Pandas pt.2 Video](https://youtu.be/DyAif6a1Rgo)|
 |Pandas pt.3|[Pandas pt.3 code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-6-pandas-3)|[Pandas pt.3 Video](https://www.youtube.com/watch?v=xbPU0FrfPG0)|
 |Pandas & Matplot Coach Lab| [Pandas & Matplot Coach Lab Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-6-pandas-matplotlib) | [Pandas & Matplot Coach Lab Video](https://youtu.be/BN7mJvWrm9g)
+|Seaborn|[Seaborn Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-7-seaborn)|[Seaborn Video](https://www.youtube.com/watch?v=22x08oiFFw8)|
 
 
 # Module 2
