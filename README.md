@@ -22,6 +22,7 @@
 |Pandas pt.3|[Pandas pt.3 code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-6-pandas-3)|[Pandas pt.3 Video](https://www.youtube.com/watch?v=xbPU0FrfPG0)|
 |Pandas & Matplot Coach Lab| [Pandas & Matplot Coach Lab Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-6-pandas-matplotlib) | [Pandas & Matplot Coach Lab Video](https://youtu.be/BN7mJvWrm9g)
 |Seaborn|[Seaborn Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-7-seaborn)|[Seaborn Video](https://www.youtube.com/watch?v=22x08oiFFw8)|
+|Git Collaboration|[Git Collab Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-8-collaborative-git)|[Git Collab Video](https://youtu.be/6f5y_jRgk4o)|
 
 
 # Module 2
