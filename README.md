@@ -25,10 +25,11 @@
 |Git Collaboration|[Git Collab Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-1/day-8-collaborative-git)|[Git Collab Video](https://youtu.be/6f5y_jRgk4o)|
 
 
+
 # Module 2
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-||||
+|JSON & APIs | [JSON & API Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-3-json-api/json-api.ipynb) | [JSON & APIs Video](https://youtu.be/ijkdkUmz9WE) |
 ||||
 ||||
 
