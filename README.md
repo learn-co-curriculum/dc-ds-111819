@@ -29,9 +29,10 @@
 # Module 2
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
+|SQL|[SQL code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-1-sql/sql-to-pandas.ipynb) |[SQL Video](https://www.youtube.com/watch?v=R2RMci_v3XA&feature=youtu.be)|
+|[Object Oriented Programing]|[OOP Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-2-oop-1/OOP.ipynb)||
 |JSON & APIs | [JSON & API Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-3-json-api/json-api.ipynb) | [JSON & APIs Video](https://youtu.be/ijkdkUmz9WE) |
-||||
-||||
+
 
 # Module 3
 | Topic                                  | Code                | Video                |
