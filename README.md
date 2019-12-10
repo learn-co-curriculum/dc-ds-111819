@@ -32,6 +32,7 @@
 |SQL I|[SQL code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-1-sql/sql-to-pandas.ipynb) |[SQL Video](https://www.youtube.com/watch?v=R2RMci_v3XA&feature=youtu.be)|
 |SQL II|||
 |JSON & APIs | [JSON & API Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-3-json-api/json-api.ipynb) | [JSON & APIs Video](https://youtu.be/ijkdkUmz9WE) |
+|Webscraping and Beautiful Soup| [Webscraping Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-4-webscraping/webscraping.ipynb)| [Webscraping Video](https://youtu.be/bRX6OVfCheU)|
 
 
 # Module 3
