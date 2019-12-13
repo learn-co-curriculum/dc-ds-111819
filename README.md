@@ -33,6 +33,11 @@
 |SQL II|[SQL code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-1-sql/sql-to-pandas.ipynb)|[SQL II Video](https://youtu.be/RMl459PdiWQ)|
 |JSON & APIs | [JSON & API Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-3-json-api/json-api.ipynb) | [JSON & APIs Video](https://youtu.be/ijkdkUmz9WE) |
 |Webscraping and Beautiful Soup| [Webscraping Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-4-webscraping/webscraping.ipynb)| [Webscraping Video](https://youtu.be/bRX6OVfCheU)|
+|OOP I|[OOP I Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-2-oop-1/OOP.ipynb)|[OOP I Video](https://youtu.be/vnVQIHCQjyY)|
+|SQL III|[SQL Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-5-sql-3/more-sql.ipynb)|[SQL Video](https://youtu.be/-_Ap00X-pGQ)|
+|NoSQL & MongoDB|[NoSQL & MongoDB Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-6-nosql-mongo/nosql.ipynb)|[NoSQL & MongoDB Video](https://youtu.be/qfCNXSh4eCk)|
+|OOP II|[OOP II Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-6-more-oop/oop-2.ipynb)|[OOP II Video](https://youtu.be/OkhnMicezqw)|
+|Code Cleanliness Coach Lab|[Code Cleanliness Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/coding-best-practies/coding_best_practices.ipynb)|[Code Cleanliness Video]()|
 
 
 # Module 3
