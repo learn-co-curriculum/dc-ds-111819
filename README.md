@@ -46,6 +46,7 @@
 |Probability|[Probability Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-1-probability/probability.ipynb)|[Probability Video](https://youtu.be/2T8-HxfW1jw)|
 |Distributions|[Distributions Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-2-random-variables/distributions.ipynb)|[Distributions Video](https://youtu.be/t7swDIksDCk)|
 |Binomial & Normal Coach Lab|[Binomial and Normal Lab Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/binom_normal_coach_lab/Binomial_Normal_Dist_Lab_Shreya.ipynb)|[Binomial and Normal Lab Video](https://youtu.be/r4Wjqf-VvIw)|
+|Hypothesis Testing| [Hypothesis Testing Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-4-hypothesis-testing/hypothesis_testing.ipynb) | [Hypothesis Testing Video](https://youtu.be/t2NCjor6TnQ) |
 
 
 # Module 4
