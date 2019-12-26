@@ -38,6 +38,7 @@
 |NoSQL & MongoDB|[NoSQL & MongoDB Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-6-nosql-mongo/nosql.ipynb)|[NoSQL & MongoDB Video](https://youtu.be/qfCNXSh4eCk)|
 |OOP II|[OOP II Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/day-6-more-oop/oop-2.ipynb)|[OOP II Video](https://youtu.be/OkhnMicezqw)|
 |Code Cleanliness Coach Lab|[Code Cleanliness Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/coding-best-practies/coding_best_practices.ipynb)|[Code Cleanliness Video](https://youtu.be/kT5SBHB_g4k)|
+|Mod 2 Summative Lab|[Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-2/Mod2-Summative-Lab/Mod_2_Summative_Lab-Coach.ipynb)|[Video](https://youtu.be/7DHcbtEx92A)|
 
 
 # Module 3
