@@ -51,6 +51,7 @@
 |Hypothesis Testing| [Hypothesis Testing Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-4-hypothesis-testing/hypothesis_testing.ipynb) | [Hypothesis Testing Video](https://youtu.be/t2NCjor6TnQ) |
 |Hypothesis Testing Coach Lab|[Hypothesis Lab Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/hypothesis_lab/hypothesis_coach_lab_shreya.ipynb)|[Hypothesis Lab Video](https://youtu.be/0QzTrLD-6lE)|
 |Confidence Intervals|[Confidence Intervals Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-5-confidence-intervals/Confidence_Intervals_Shreya.ipynb)|[Confidence Intervals Video](https://youtu.be/qPaK7orxdPk)|
+|Effect Size|[Effect Size Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-6-Power_effect_size/effect_size_and_power-1118.ipynb)|[Effect Size Video](https://youtu.be/rs-h9CeMBjs)|
 
 
 # Module 4
