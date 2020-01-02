@@ -53,6 +53,7 @@
 |Confidence Intervals|[Confidence Intervals Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-5-confidence-intervals/Confidence_Intervals_Shreya.ipynb)|[Confidence Intervals Video](https://youtu.be/qPaK7orxdPk)|
 |Effect Size|[Effect Size Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-6-Power_effect_size/effect_size_and_power-1118.ipynb)|[Effect Size Video](https://youtu.be/rs-h9CeMBjs)|
 |Resampling|[Resampling Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-7-Resampling/Resampling_1118.ipynb)|[Resampling Video](https://youtu.be/np8Gx14JJHE)|
+|Power and Effect Sizes|[Power and Effect Sizes Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-6-Power_effect_size/effect_size_and_power2-1118.ipynb)|[Power and Effect Sizes Video](https://www.youtube.com/watch?v=m3-rqWFpSGU&feature=youtu.be)|
 
 
 # Module 4
