@@ -54,13 +54,12 @@
 |Effect Size|[Effect Size Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-6-Power_effect_size/effect_size_and_power-1118.ipynb)|[Effect Size Video](https://youtu.be/rs-h9CeMBjs)|
 |Resampling|[Resampling Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-7-Resampling/Resampling_1118.ipynb)|[Resampling Video](https://youtu.be/np8Gx14JJHE)|
 |Power and Effect Sizes|[Power and Effect Sizes Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-6-Power_effect_size/effect_size_and_power2-1118.ipynb)|[Power and Effect Sizes Video](https://www.youtube.com/watch?v=m3-rqWFpSGU&feature=youtu.be)|
-|Bayes Theorem|[Bayes Theorem Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-8-Bayes_Theorem/bayes.ipynb)|[Bayes Theorem Video]()|
-
+|Bayes Theorem|[Bayes Theorem Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-8-Bayes_Theorem/bayes.ipynb)|[Bayes Theorem Video](https://youtu.be/E_6i0fVE75I)|
+|Simple Linear Regression|[Linear Regression Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-9-Simple_Linear_Regression/1118_simple_regression.ipynb)|[Linear Regression Video](https://youtu.be/cdJ_--D40aw)|
 
 # Module 4
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-|Simple Linear Regression|[Linear Regression Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-3/day-9-Simple_Linear_Regression/1118_simple_regression.ipynb)|[Linear Regression Video](https://youtu.be/cdJ_--D40aw)|
 ||||
 ||||
 
