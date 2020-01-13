@@ -63,6 +63,7 @@
 |Multiple Linear Regression|[Multiple Linear Regression Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-4/day-1-multiple_linear_regression/1118_Linear_Regression_Multiple.ipynb)|[Multiple Linear Regression Video](https://youtu.be/XhAPy8c6cbA)|
 |Assumption Checking Coach Lab|[Assumption Checking Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-4/coach-lab-assumption-checking/Assumption%20Checking.ipynb)|[Assumption Checking Video](https://youtu.be/pBJ1M-5u75k)|
 |Polynomial Regression & Bias-Variance|[Polynomial Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-4/Day-2-Polynomial_Bias-Variance/1118_Polynomial_Regression_Bias_Variance.ipynb)|[Polynomial Video](https://youtu.be/-y00lUnFhI0)|
+|Regularization|[Regularization Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-4/Day-3-Lasso-Ridge/regularization/1118_regularization.ipynb)|[Regularization Video](https://youtu.be/SqxNssD5dNE)|
 
 # Module 5
 | Topic                                  | Code                | Video                |
