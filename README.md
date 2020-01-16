@@ -65,6 +65,7 @@
 |Polynomial Regression & Bias-Variance|[Polynomial Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-4/Day-2-Polynomial_Bias-Variance/1118_Polynomial_Regression_Bias_Variance.ipynb)|[Polynomial Video](https://youtu.be/-y00lUnFhI0)|
 |Regularization|[Regularization Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-4/Day-3-Lasso-Ridge/regularization/1118_regularization.ipynb)|[Regularization Video](https://youtu.be/SqxNssD5dNE)|
 |Gradient Descent|[Gradient Descent Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-4/Day-4-GradientDescent/Math_Gradient_Descent.ipynb)|[Gradient Descent Video](https://youtu.be/hhBLKTSOov0)|
+|Classification Metrics|[Classification Metrics Code](https://github.com/learn-co-students/dc-ds-111819/tree/master/module-4/Day-6-Classification_metrics)|[Classification Metrics Video](https://youtu.be/Ahz6BzbvXQE)|
 
 # Module 5
 | Topic                                  | Code                | Video                |
