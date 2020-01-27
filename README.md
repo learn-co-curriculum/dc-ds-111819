@@ -71,9 +71,9 @@
 # Module 5
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-||||
-||||
-||||
+|Decision Trees|[Decision Trees Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-1-Decision_Trees/Decision-Trees-Student-Version.ipynb)|[Decision Trees Video](https://youtu.be/a6c_j5MI6TQ)|
+|Random Forests|[Random Forests Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-2-Random_Forests/Random_Forests1118.ipynb)|[Random Forests Video](https://youtu.be/zRA4SaG8NpQ)|
+|k-NN Coach Lab|[k-NN Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/kNN_Coach_Lab/knn_classification_Shreya.ipynb)|[k-NN Video](https://youtu.be/T8kMtBjM-OY)|
 
 # Module 6
 | Topic                                  | Code                | Video                |
