@@ -105,6 +105,4 @@
 | Jill Carrie          | |
 | Darian Madere        | |
 | Jeff Lin             | |
-| Chunhsiung Lu        | |
-| Christian Mundell    ||
-|Stuart Murphy||
+|Stuart Murphy         | |
