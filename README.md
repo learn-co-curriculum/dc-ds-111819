@@ -76,7 +76,8 @@
 |k-NN Coach Lab|[k-NN Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/kNN_Coach_Lab/knn_classification_Shreya.ipynb)|[k-NN Video](https://youtu.be/T8kMtBjM-OY)|
 |SVM|[SVM Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-3-SVM/Support_Vector_Machines.ipynb)|[SVM Video](https://youtu.be/uhNSnnQ8Geo)|
 |PCA|[PCA Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-4-PCA/Principal-Component-Analysis.ipynb)|[PCA Video](https://youtu.be/5dmJVngWyNg)|
-||||
+|k-Means Clustering|[k-Means Clustering Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-5-KMeans/clustering_algorithms.ipynb)|[k-Means Clustering Video](https://youtu.be/BMsC4cujyyk)|
+|Boosting|[Boosting Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-6-Boosting/Boosting_and_pipelines1007.ipynb)|[Boosting Video](https://youtu.be/UkycSPr8y6k)|
 
 
 # Module 6
