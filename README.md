@@ -78,13 +78,16 @@
 |PCA|[PCA Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-4-PCA/Principal-Component-Analysis.ipynb)|[PCA Video](https://youtu.be/5dmJVngWyNg)|
 |k-Means Clustering|[k-Means Clustering Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-5-KMeans/clustering_algorithms.ipynb)|[k-Means Clustering Video](https://youtu.be/BMsC4cujyyk)|
 |Boosting|[Boosting Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-6-Boosting/Boosting_and_pipelines1007.ipynb)|[Boosting Video](https://youtu.be/UkycSPr8y6k)|
+|Pipelines|[Pipelines Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-7-pipelines/Pipelines_and_Composite_Estimators.ipynb)|[Pipelines Video](https://youtu.be/yH-OzVSuVxs)|
+|Big Data & PySpark|[PySpark Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-8-pyspark/spark-intro.ipynb)|[PySpark Video](https://youtu.be/Qa43PX_nHIk)|
+|Recommender Systems|[Recommender Systems Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-5/day-9-recommender-systems/spark-als-enkeboll.ipynb)|[Recommender Systems Video](https://youtu.be/JFwXUkUc-8I)|
 
 
 # Module 6
 | Topic                                  | Code                | Video                |
 |:---|:---|:---|
-||||
-||||
+|Graph Theory|[Graph Theory Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-1-networks-graphs/networks.ipynb)|[Graph Theory Video](https://youtu.be/-CyGDrx5su8)|
+|Natural Language Processing I|[NLP I Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-2-nlp-1/nlp-intro.ipynb)|[NLP I Video]()|
 ||||
 
 
