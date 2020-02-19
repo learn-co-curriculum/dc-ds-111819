@@ -89,9 +89,9 @@
 |Graph Theory|[Graph Theory Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-1-networks-graphs/networks.ipynb)|[Graph Theory Video](https://youtu.be/-CyGDrx5su8)|
 |Natural Language Processing I|[NLP I Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-2-nlp-1/nlp-intro.ipynb)|[NLP I Video](https://youtu.be/G_VO67gHQ7k)|
 |Natural Language Processing II|[NLP II Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-3-nlp-2/nlp_classification-enkeboll.ipynb)|[NLP II Video](https://youtu.be/xbvagoiZgps)|
-|Cloud Computing|[Cloud Computing Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-4-the-cloud/cloud_computing.ipynb)||
+|Cloud Computing|[Cloud Computing Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-4-the-cloud/cloud_computing.ipynb)|[Cloud Computing Video](https://youtu.be/Nkcv9L67rqY)|
 |Neural Networks I|[NN I Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-5-nn-1/neural_networks_intro.ipynb)|[NN I Video](https://youtu.be/a7JDvLAl0R8)|
-|Neural Networks II|[NN II Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-6-nn-2/intro-to-keras.ipynb)|[NN II Video]()|
+|Neural Networks II|[NN II Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-6-nn-2/intro-to-keras.ipynb)|[NN II Video](https://youtu.be/aPXCfgJJ1aQ)|
 
 
 ## Blogs
