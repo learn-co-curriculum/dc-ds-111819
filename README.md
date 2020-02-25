@@ -92,6 +92,8 @@
 |Cloud Computing|[Cloud Computing Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-4-the-cloud/cloud_computing.ipynb)|[Cloud Computing Video](https://youtu.be/Nkcv9L67rqY)|
 |Neural Networks I|[NN I Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-5-nn-1/neural_networks_intro.ipynb)|[NN I Video](https://youtu.be/a7JDvLAl0R8)|
 |Neural Networks II|[NN II Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-6-nn-2/intro-to-keras.ipynb)|[NN II Video](https://youtu.be/aPXCfgJJ1aQ)|
+|Convolutional Neural Networks|[CNN Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-7-cnns/cnn-enkeboll.ipynb)|[CNN Video](https://youtu.be/gYtnyFfhBxA)|
+|Long Short Term Memory|[LSTM Code](https://github.com/learn-co-students/dc-ds-111819/blob/master/module-6/day-8-lstms/LSTMs_enkeboll.ipynb)|[LSTM Video](https://youtu.be/3MfuAXu4Zlc)|
 
 
 ## Blogs
